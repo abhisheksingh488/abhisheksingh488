@@ -1,3 +1,18 @@
+# Hi there 👋, I'm Abhishek Singh
+
+🎓 Computer Science Engineering Student | Aspiring Data Analyst & GenAI Developer
+
+I'm a fresher passionate about **Data Analytics, Python, Machine Learning, and Generative AI**. I enjoy building projects that solve real-world problems and help me learn new technologies.
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel, Power BI
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Machine Learning:** Scikit-learn, ML Fundamentals
+- **Generative AI:** LLMs, RAG, LangChain, LangGraph, Vector Databases
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+
 ## 🚀 Featured Projects
 
 ### 1. Spotify Personalized AI Memory System
@@ -20,3 +35,11 @@ An interactive Power BI dashboard comparing Airbnb listings, room types, pricing
 **Tech Stack:** Power BI, Data Visualization, Data Analysis
 
 [View Project](https://github.com/abhisheksingh488/airbnb-dataviz-challenge)
+
+## 🎯 Career Goal
+
+Looking for opportunities to grow as a Data Analyst or GenAI Developer and contribute to impactful projects.
+
+## 🤝 Connect With Me
+
+- GitHub: [abhisheksingh488](https://github.com/abhisheksingh488)
